@@ -4,7 +4,14 @@
     text-align: center;
 }
 
-/*mypic*/
-.picme{
-    background-image: url(../img/lapi.jpg);
+/*myme*/
+.myme{
+    text-align: center;
+    width: 100%;
+}
+
+.nic-1{
+    text-align: center;
+    width: 33.33%;
+    display: inline-block;
 }

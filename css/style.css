@@ -369,7 +369,17 @@ Navigation
   padding: 2em 0;
   background-color:;    
 }
-.cd-content p {
+
+.cd-content .myme{
+    text-align: center;
+}
+
+.cd-content .myme .nic-1{
+    width: 33.33%;
+    display: inline-block;
+    text-align: center;
+}
+/*.cd-content p {
   width: 90%;
   max-width: 800px;
   margin: 0 auto 2em;
@@ -384,7 +394,7 @@ Navigation
   .cd-content p {
     font-size: 1.6rem;
   }
-}
+}*/
 
 /* -------------------------------- 
 
