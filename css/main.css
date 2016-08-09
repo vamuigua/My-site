@@ -1,5 +1,5 @@
 .col-1-3{
-    width:33.33%;
+    width:20.33%;
     display: inline-block;
     text-align: center;
 }
@@ -7,11 +7,11 @@
 /*myme*/
 .myme{
     text-align: center;
-    width: 100%;
+    width: 80%;
 }
 
 .nic-1{
-    text-align: center;
-    width: 33.33%;
+    text-align:;
+    width: 10%;
     display: inline-block;
 }
