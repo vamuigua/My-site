@@ -378,6 +378,7 @@ Navigation
     width: 30.33%;
     display: inline-block;
     text-align: center;
+    margin-right: 10px;
 }
 /*.cd-content p {
   width: 90%;
