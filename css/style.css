@@ -390,7 +390,8 @@ Navigation
 }*/
 @media only screen and (max-width: 768px) {
   .cd-content .myme .nic-1 {
-    padding: 4em 0;
+      box-sizing: border-box;
+      padding: 4em 0;
       display: block;
       vertical-align: top;
       width: 100%;
